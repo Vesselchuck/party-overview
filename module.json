@@ -31,8 +31,8 @@
   "esmodules": ["./party-overview.js"],
   "styles": ["./style/party-overview.css"],
   "packs": [],
-  "url": "http://github.com/mclemente/party-overview",
-  "bugs": "http://github.com/mclemente/party-overview/issues",
-  "manifest": "http://github.com/mclemente/party-overview/releases/latest/download/module.json",
-  "download": "http://github.com/mclemente/party-overview/releases/latest/download/module.zip"
+  "url": "http://github.com/vesselchuck/party-overview",
+  "bugs": "http://github.com/vesselchuck/party-overview/issues",
+  "manifest": "http://github.com/vesselchuck/party-overview/releases/latest/download/module.json",
+  "download": "http://github.com/vesselchuck/party-overview/releases/latest/download/module.zip"
 }
